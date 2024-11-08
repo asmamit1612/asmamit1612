@@ -1,4 +1,10 @@
-## Hi there,I am Amit Sudama Sharma👋
+# Hi there,I am Amit Sudama Sharma👋
+
+# Hi there, I am Chandana Bharathi Vaidya 👋
+
+I'm here to explore, experiment, and contribute. Feel free to check out my projects and join me on this learning journey!
+
+**Bachelor of Science in Information Technology**
 
 <!--
 **asmamit1612/asmamit1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
