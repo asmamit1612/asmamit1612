@@ -38,17 +38,28 @@
 
 ---
 
-<!--
-**asmamit1612/asmamit1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=asmamit1612&show_icons=true&locale=en&layout=compact"
+    alt="asmamit1612"
+  />
+</p>
+      
+      
 
-Here are some ideas to get you started:
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=asmamit1612&show_icons=true&locale=en"
+    alt="asmamit1612"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=asmamit1612"
+    alt="asmamit1612"
+  />
+</p>
