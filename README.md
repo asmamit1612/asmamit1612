@@ -117,9 +117,12 @@
 
 ### 📈 Contribution Graph:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmamit1612&theme=high-contrast" alt="Contribution Graph"/>
-</p>
+</p> -->
+
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmamit1612&theme=radical&hide_border=true)
+
 
 ---
 
