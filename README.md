@@ -1,8 +1,7 @@
-# Hi there,I am Amit Sudama Sharma👋
+<h1 align="center">Hi there,I am Amit Sharma👋</h1>
+<h2 align="center">I'm here to explore, experiment, and contribute. Feel free to check out my projects and join me on this learning journey!</h2>
 
-I'm here to explore, experiment, and contribute. Feel free to check out my projects and join me on this learning journey!
-
-**Bachelor of Science in Information Technology**
+<h3 align="center">Bachelor of Science in Information Technology</h3>
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=ChandanaVaidya17&label=Profile%20views&color=0e75b6&style=flat) 
