@@ -4,7 +4,12 @@
 <h3 align="center">Bachelor of Science in Information Technology</h3>
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=ChandanaVaidya17&label=Profile%20views&color=0e75b6&style=flat) 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=asmamit1612&&label=PROFILE+VIEWS&color=0e75b6&style=flat"
+    alt="ChandanaVaidya17"
+  />
+</p>
 
 ### Badges Overview:
 
