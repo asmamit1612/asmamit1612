@@ -5,6 +5,17 @@ I'm here to explore, experiment, and contribute. Feel free to check out my proje
 **Bachelor of Science in Information Technology**
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=ChandanaVaidya17&label=Profile%20views&color=0e75b6&style=flat) 
+
+### Badges Overview:
+
+| MultiLanguage | Repositories | Commits | Experience | Followers | PullRequest | Stars | Issues | Reviews |
+| :-----------: | :----------: | :-----: | :--------: | :-------: | :---------: | :---: | :----: | :-----: |
+| ![Rainbow](https://img.shields.io/badge/Rainbow%20Lang%20User-16pt-blue) | ![Hyper Repo](https://img.shields.io/badge/Hyper%20Repo%20Creator-45pt-green) | ![High Committer](https://img.shields.io/badge/High%20Committer-183pt-brightgreen) | ![Intermediate Dev](https://img.shields.io/badge/Intermediate%20Dev-12pt-yellow) | ![Friends](https://img.shields.io/badge/Many%20Friends-16pt-lightgrey) | ![Middle Puller](https://img.shields.io/badge/Middle%20Puller-13pt-blue) | ![First Star](https://img.shields.io/badge/First%20Star-6pt-yellow) | ![Unknown Issues](https://img.shields.io/badge/Issues-0pt-lightgrey) | ![Reviews](https://img.shields.io/badge/Reviews-Unknown-lightgrey) |
+
+---
+---
+
 ### 🌱 Currently Learning:
 - Python Frameworks
 - React.js
