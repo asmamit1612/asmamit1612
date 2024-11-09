@@ -6,7 +6,7 @@ I'm here to explore, experiment, and contribute. Feel free to check out my proje
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-ChandanaVaidya17-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ChandanaVaidya17)
+[![LinkedIn](https://img.shields.io/badge/-asmamit1612-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asmamit1612/)
 
 
 <!--
