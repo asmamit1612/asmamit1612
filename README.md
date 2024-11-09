@@ -4,6 +4,11 @@ I'm here to explore, experiment, and contribute. Feel free to check out my proje
 
 **Bachelor of Science in Information Technology**
 
+### Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-ChandanaVaidya17-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ChandanaVaidya17)
+
+
 <!--
 **asmamit1612/asmamit1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
