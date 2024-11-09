@@ -3,11 +3,21 @@
 I'm here to explore, experiment, and contribute. Feel free to check out my projects and join me on this learning journey!
 
 **Bachelor of Science in Information Technology**
+---
+
+### 🌱 Currently Learning:
+- Python Frameworks
+- React.js
+
+📧 **Contact Me**: [asmamit1612@gmail.com](mailto:asmamit1612@gmail.com)
+
+---
 
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-asmamit1612-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asmamit1612/)
 
+---
 
 <!--
 **asmamit1612/asmamit1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
