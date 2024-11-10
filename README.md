@@ -26,7 +26,7 @@
 
 ---
 
-### 🔗 Connect with Me:
+### 🔗 Connect with Me: 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asmamit1612/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
@@ -76,11 +76,15 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/?username=asmamit1612&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"/>
+</div>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asmamit1612&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamit1612&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+</div>
 
 <!-- ---
 
